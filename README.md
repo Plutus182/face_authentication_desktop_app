@@ -31,6 +31,6 @@ To install the Face Authentication App, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://yourrepository.com/face-authentication-app.git
+git clone https://github.com/Plutus182/face_authentication_desktop_app.git
 cd face-authentication-app
 ```
